@@ -27,3 +27,4 @@
    ## Contact
   Github: https://github.com/jesseosborne615
   Email: jesseosborne615@gmail.com
+  Link to Video Walkthrough: https://drive.google.com/file/d/1wcyV6ae9MuXmOVUnwOnnulh27IvvO1Po/view
