@@ -8,16 +8,9 @@
   * [Contributions](#contributors)
   * [Tests](#tests)
   * [Contact](#contatct)
-  * [License](#license)
 
   ## Description
   An application for a user to use a database to store information about products for their company.
-  
-  ## License
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-  https://opensource.org/licenses/MIT
-
 
   ## Installation
   Run `my sql -u root -p`. Enter password. Run`source db/schema.sql`. Run `exit`. Run `npm run seed`. Run `npm start`.
